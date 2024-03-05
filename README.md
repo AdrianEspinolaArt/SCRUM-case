@@ -1,5 +1,4 @@
-# SCRUM-case
-Estudo de Caso: Apple - Metodologia SCRUM
+# Estudo de Caso: Apple - Metodologia SCRUM
 
 Introdução
 A Apple Inc. é reconhecida mundialmente por sua inovação em produtos eletrônicos, software e serviços digitais. A empresa alcançou sucesso estrondoso e crescimento contínuo ao longo dos anos, em grande parte devido à sua capacidade de inovar e se adaptar rapidamente às mudanças do mercado. Um aspecto menos discutido, mas igualmente importante, de sua estratégia é a adoção de práticas ágeis, como a metodologia SCRUM, em seu processo de desenvolvimento de produtos.
